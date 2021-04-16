@@ -24,3 +24,6 @@ rm(list=ls()) # Remove all to free RAM (memory)
 
 median(workex) #Median
 #mode will be added in the next seesion
+
+
+#abcd
